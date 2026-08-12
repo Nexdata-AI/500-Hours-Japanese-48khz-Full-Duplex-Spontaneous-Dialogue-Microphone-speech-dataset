@@ -1,0 +1,36 @@
+LHD	Datatang-v1.2
+DBN
+SES	G01000
+CMT	*** Speech Label Information ***
+FIP	data/category/G01000/G01000S0001_O1.wav
+CCD	tra
+REP	
+RED	
+RET	
+CMT	*** Speech Data Coding ***
+SAM	48000
+SNB	4
+SBF	lohi
+SSB	32
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1
+SEX	O1_Female
+AGE	O1_34
+ACC	Niigata
+ACT	Niigata
+BIR	Niigata
+CMT	*** Recording Conditions ***
+SNQ	
+MIP	close
+MIT	
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	G01000S0001_O1.txt
+LBR	1039.8933333333334
+LBO	596.1952828822414
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS	
